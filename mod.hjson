@@ -1,0 +1,6 @@
+name: "unlock-all"
+displayName: "[accent]Unlock everything." //what displays in the mod selection menu
+author: "iogame"
+description: "Unlock everything in campaign"
+version: "1.00"
+minGameVersion: "104"
